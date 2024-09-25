@@ -1,4 +1,4 @@
-<div class="container"  style="background-color:  rgb(169, 91, 241);">
+<div class="container"  style="background-color:  rgb(169, 91, 241); padding: 100px;">
     <h1 align="center" style="color: black;">
         Portfolio Nicole Maturana Morales<br/>
         <a href="" target="_blank">Acceso a github</a>
