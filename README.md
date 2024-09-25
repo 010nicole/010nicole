@@ -1,4 +1,4 @@
-<div class="container"  style="background-color:  rgb(169, 91, 241); padding: 100px;">
+<div class="container">
     <h1 align="center" style="color: black;">
         Portfolio Nicole Maturana Morales<br/>
         <a href="" target="_blank">Acceso a github</a>
@@ -14,7 +14,8 @@
         Nací en la región metropolitana, especificamente en la ciudad de santiago, comuna de Maipú, Chile.  
       </h2>  
       <div align="center">
-        <img  style="width: 500px;" alt="ola" src="img/COYF5YBWA5CLXMMVYFWRLUHYCM.avif" />
+        <img  style="width: 420px;" alt="ola" src="img/COYF5YBWA5CLXMMVYFWRLUHYCM.avif" />
+        <img  style="width: 340px;" alt="ola" src="img/mapa_maipu.png" />
       </div>
       <br/>
       <h2 style="color: black; text-align: justify;">
