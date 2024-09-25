@@ -7,17 +7,17 @@
         <img  style="width: 500px;" alt="ola" src="img/images.jpg" />
       </div>
       <br/>
-    <h2 align="center" style="color: black; text-align: justify;">
+    <h2 style="color: black; text-align: justify;">
         Soy una mujer apasionada por el mar y lo que involucre la naturaleza. Me gusta salir a caminar por la ciudad. Disfruto de los cerros que hay en santiago subiendo con amigos. 
     </h2>
-    <h2 align="center" style="color: black; text-align: justify;">
+    <h2 style="color: black; text-align: justify;">
         Nací en la región metropolitana, especificamente en la ciudad de santiago, comuna de Maipú, Chile.  
       </h2>  
       <div align="center">
         <img  style="width: 500px;" alt="ola" src="img/COYF5YBWA5CLXMMVYFWRLUHYCM.avif" />
       </div>
       <br/>
-      <h2   align="center" style="color: black; text-align: justify;">
+      <h2 style="color: black; text-align: justify;">
         He participado en proyectos de ingeniería marítima entre los que se incluyen estudios de caracterización del medio, evaluaciones de riesgo de tsunami, diseño de instalaciones experimentales para la modelación de ondas largas, diseños de ingeniería portuaria, proyectos de ingeniería costera, diseño de bocatomas, emisarios y descargas submarinas, evaluación del potencial energético de oleaje y mareas, proyectos hidráulicos y estudios de transporte de sedimentos. 
       </h2>
       <h2 style="color: black;"> Formación académica:
@@ -28,7 +28,7 @@
         <li>Bootcamp de desarrollo full stack python 2024 </li>
         </div>
       </h2>
-      <h2   align="center" style="color: black; text-align: justify;">
+      <h2  style="color: black; text-align: justify;">
         Contáctame
         <div >
         <br/>
