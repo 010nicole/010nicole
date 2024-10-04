@@ -1,7 +1,6 @@
 <div class="container" style="margin: 20px;">
     <h1 align="center" style="color: black;">
-        Portfolio Nicole Maturana Morales<br/>
-        <a href="" target="_blank">Acceso a github</a>
+        Nicole Maturana Morales<br/>
       </h1>
       <div align="center">
         <img  style="width: 500px;" alt="ola" src="img/images.jpg" />
@@ -44,10 +43,8 @@ Nacida en la comuna de Maipú, en la ciudad de Santiago, Chile.
         Contáctame
         <div >
         <br/>
-        <div>
-        <li >nicol.maturanam@gmail.com</li>
-        </div>
-        <a href="https://www.linkedin.com/in/nicole-maturana-morales-9a756923a" ><img  style="width: 50px;" alt="linkedin" src="img/linkedin.png" /></a>
+        <li>nicol.maturanam@gmail.com</li>
+        <a style="padding-top: 10px;" href="https://www.linkedin.com/in/nicole-maturana-morales-9a756923a" ><img  style="width: 50px;" alt="linkedin" src="img/linkedin.png" /></a>
         </div>
       </h2>
 </div>
