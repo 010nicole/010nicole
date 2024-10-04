@@ -44,7 +44,9 @@ Nacida en la comuna de Maipú, en la ciudad de Santiago, Chile.
         Contáctame
         <div >
         <br/>
-        <li>nicol.maturanam@gmail.com</li>
+        <div>
+        <li >nicol.maturanam@gmail.com</li>
+        </div>
         <a href="https://www.linkedin.com/in/nicole-maturana-morales-9a756923a" ><img  style="width: 50px;" alt="linkedin" src="img/linkedin.png" /></a>
         </div>
       </h2>
